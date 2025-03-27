@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fastify": "^5.2.2",
+    "got": "^14.4.6"
+  }
+}
